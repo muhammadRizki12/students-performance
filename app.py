@@ -101,7 +101,4 @@ with st.expander("View the Raw Data"):
     st.dataframe(input_df, width=800, height=10)
 
 if st.button('Predict'):
-    # new_data = data_preprocessing(data=input_df)
-    with st.expander("View the Preprocessed Data"):
-        st.dataframe(data=input_df, width=800, height=10)
     st.write("Status: {}".format(predict_status(input_df)))
