@@ -101,10 +101,13 @@ Sumber data: [Dataset Students' Performance](https://github.com/dicodingacademy/
 Dashboard ini dibuat untuk memvisualisasikan data terkait siswa dan tingkat droput siswa. Tujuan utama dashboard adalah untuk membantu perguruan dalam memantau, menganalisis, dan memahami faktor-faktor yang memengaruhi tingginya droput, serta mendukung pengambilan keputusan strategis oleh tim perguruan.
 
 <!-- ![alt text](./images/dashboard-1.png) -->
+<img width="605" alt="muhammad_rizki23-dashboard-1" src="https://github.com/user-attachments/assets/6dc8e41f-0cbf-4aa3-9f75-f7a4f7bde832" />
 
 <!-- ![alt text](./images/dashboard-2.png) -->
+<img width="552" alt="muhammad_rizki23-dashboard-2" src="https://github.com/user-attachments/assets/a71af080-5c0a-4cd5-a272-930c77b3faee" />
 
 <!-- ![alt text](./images/dashboard-3.png) -->
+<img width="563" alt="muhammad_rizki23-dashboard-3" src="https://github.com/user-attachments/assets/b9c74195-9682-4533-883a-a225de1d8ac9" />
 
 ## Menjalankan Sistem Machine Learning
 
@@ -120,6 +123,7 @@ streamlit run app.py
 * Atau mengakses link berikut: https://muhammadrizki12-students-performance-app-1jomo0.streamlit.app/
 
 <!-- ![alt text](./images/streamlit.png) -->
+<img width="422" alt="streamlit" src="https://github.com/user-attachments/assets/a9f951a8-faa8-4a72-a02b-515b5424ebc6" />
 
 ## Conclusion
 
