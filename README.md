@@ -90,11 +90,19 @@ Sumber data: [Dataset Students' Performance](https://github.com/dicodingacademy/
    ```
 
 5. Setup metabase:
+
    ```
    docker pull metabase/metabase:v0.46.4
    docker run -p 3000:3000 --name metabase metabase/metabase
    ```
+
    Akses metabase pada http://localhost:3000/setup dan lakukan setup.
+
+6. Setup streamlit
+
+   ```
+   pip install streamlit==1.42.2
+   ```
 
 ## Business Dashboard
 
